@@ -55,7 +55,7 @@ public abstract class Tweet {
         this.date = date;
     }
 
-    public void setListOfMood(ArrayList<Mood> listOfMoods){
-        this.listOfMoods = listOfMoods;
+    public void addMood(Mood mood){
+        this.listOfMoods.add(mood);
     }
 }

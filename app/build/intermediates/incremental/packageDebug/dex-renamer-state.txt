@@ -1,0 +1,7 @@
+#Thu Sep 14 17:49:40 MDT 2017
+base.0=/Users/musaed/Desktop/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aec96cc76be7da5e99d7301d54a84b2e68fd3d99
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/musaed/Desktop/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e4f905b7fe27a32ddff04d0cadbe7c3ddb111e4c/classes.dex
+base.1=/Users/musaed/Desktop/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e4f905b7fe27a32ddff04d0cadbe7c3ddb111e4c
+file.0=/Users/musaed/Desktop/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aec96cc76be7da5e99d7301d54a84b2e68fd3d99/classes.dex
