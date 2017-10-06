@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/afs/ualberta.ca/home/a/l/alsobaie/Desktop/NEW/master/lonelyTwitter/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/afs/ualberta.ca/home/a/l/alsobaie/Desktop/NEW/master/lonelyTwitter/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/musaed/Desktop/lonelyTwitter/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
         "source": "/Users/musaed/Desktop/lonelyTwitter/app/src/main/res/drawable-hdpi/ic_launcher.png"
     }
