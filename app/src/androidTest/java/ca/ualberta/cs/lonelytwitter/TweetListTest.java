@@ -1,5 +1,6 @@
 package ca.ualberta.cs.lonelytwitter;
 
+import android.test.ActivityInstrumentationTestCase;
 import android.test.ActivityInstrumentationTestCase2;
 
 /**

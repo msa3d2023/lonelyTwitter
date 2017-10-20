@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/musaed/GitHub/lonelyTwitter/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/musaed/.android/build-cache/fe4c178d909b4dbd8772ccf7c5fad0cc845e5685/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/musaed/GitHub/lonelyTwitter/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/musaed/.android/build-cache/fe4c178d909b4dbd8772ccf7c5fad0cc845e5685/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/musaed/GitHub/lonelyTwitter/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/musaed/.android/build-cache/fe4c178d909b4dbd8772ccf7c5fad0cc845e5685/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/musaed/GitHub/lonelyTwitter/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/musaed/.android/build-cache/fe4c178d909b4dbd8772ccf7c5fad0cc845e5685/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/musaed/GitHub/lonelyTwitter/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/musaed/.android/build-cache/fe4c178d909b4dbd8772ccf7c5fad0cc845e5685/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/musaed/GitHub/lonelyTwitter/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/musaed/.android/build-cache/fe4c178d909b4dbd8772ccf7c5fad0cc845e5685/output/res/anim/abc_slide_in_bottom.xml"
+    }
+]

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/musaed/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/musaed/GitHub/lonelyTwitter/app/build/intermediates/pre-dexed/debug/gson-2.7_272a928dacd31fb55467bde632825e9fbb06da76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/musaed/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/musaed/GitHub/lonelyTwitter/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_0f61f75b72f0dbc55dc5ec3ceb3d867085a13214.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/musaed/.android/build-cache/fe4c178d909b4dbd8772ccf7c5fad0cc845e5685/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/Users/musaed/GitHub/lonelyTwitter/app/build/intermediates/pre-dexed/debug/classes_c2eed1c83887ea1a5f7508b184afbf3ebfcb123a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/musaed/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.6.3/94ec2d7b23be9817d92905cc09124aecfc46d28c/robotium-solo-5.6.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94ec2d7b23be9817d92905cc09124aecfc46d28c">
+        <dex dex="/Users/musaed/GitHub/lonelyTwitter/app/build/intermediates/pre-dexed/debug/robotium-solo-5.6.3_65fc6dce8d7d54f7e34245df96c9db519312eb8d.jar" />
+    </item>
+
+</items>
